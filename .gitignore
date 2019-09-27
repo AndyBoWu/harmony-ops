@@ -2,3 +2,6 @@ _book
 .DS_Store
 docs/.DS_Store
 docs/img/.DS_Store
+grafana-dashboard/venv
+grafana-dashboard/.env
+grafana-dashboard/.vscode/
